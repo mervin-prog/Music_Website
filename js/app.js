@@ -46,6 +46,13 @@ const ap = new APlayer({
 		artist: 'Drake',
         url: 'audio/One_Dance.mp3',
         cover: 'img/drake.jpg',
+    },
+    {
+        name: 'Danza Kuduro',
+		artist: 'Don Omar',
+        url: 'audio/Danza_Kuduro.mp3',
+        cover: 'img/danza.jpg',
     }
+    
     ]
 });
